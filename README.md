@@ -1,2 +1,2 @@
 # EvHGen: Event-based Hierarchical Gaussian Primitives Generation Framework
-Code is coming soon
+Code will be released
