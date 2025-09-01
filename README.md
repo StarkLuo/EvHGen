@@ -46,14 +46,20 @@ Code will be released
 </tr>
 
   <tr>
+    <td align="center"><img src="videos/21.gif" width="250"/></td>
     <td align="center"><img src="videos/7.gif" width="250"/></td>
-    <td align="center"><img src="videos/8.gif" width="250"/></td>
-    <td align="center"><img src="videos/9.gif" width="250"/></td>
+    <td align="center"><img src="videos/10.gif" width="250"/></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="videos/10.gif" width="250"/></td>
+    <td align="center"><img src="videos/8.gif" width="250"/></td>
+    <td align="center"><img src="videos/9.gif" width="250"/></td>
     <td align="center"><img src="videos/11.gif" width="250"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="videos/19.gif" width="250"/></td>
+    <td align="center"><img src="videos/20.gif" width="250"/></td>
     <td align="center"><img src="videos/12.gif" width="250"/></td>
   </tr>
 
