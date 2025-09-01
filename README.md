@@ -25,6 +25,18 @@ Code will be released
     <td align="center"><img src="videos/6.gif" width="250"/></td>
   </tr>
 
+  <tr>
+    <td align="center"><img src="videos/13.gif" width="250"/></td>
+    <td align="center"><img src="videos/14.gif" width="250"/></td>
+    <td align="center"><img src="videos/15.gif" width="250"/></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="videos/16.gif" width="250"/></td>
+    <td align="center"><img src="videos/17.gif" width="250"/></td>
+    <td align="center"><img src="videos/18.gif" width="250"/></td>
+  </tr>
+
 <tr>
   <td colspan="4" style="text-align:center;">
     <div style="margin-top:5px; font-weight:bold; font-size:16px;">
